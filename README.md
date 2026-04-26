@@ -5,7 +5,7 @@ El objetivo de este sitio es mostrar de forma clara y profesional mi experiencia
 
 🔗 Demo Online
 
-👉 https://humbertoprogramador.github.io/portfolio-humberto-rey/
+👉 https://humbertuprogramador.github.io/portfolio-Humberto-Rey/
 
 👨‍💻 Sobre mí
 
