@@ -1,89 +1,54 @@
-Portfolio web personal donde presento mis proyectos y habilidades como **Frontend Developer**.  
-El objetivo de este sitio es mostrar de forma clara y profesional mi experiencia desarrollando interfaces web modernas y aplicaciones con JavaScript.
+💼 Portfolio - Humberto Rey
 
-🔗 **Demo online:**  
-https://humbertoprogramador.github.io/portfolio-humberto-rey/
+Portfolio web personal donde presento mis proyectos y habilidades como Frontend Developer y QA Automation.
+El objetivo de este sitio es mostrar de forma clara y profesional mi experiencia desarrollando interfaces modernas y aplicando prácticas de testing automatizado.
 
----
+🔗 Demo Online
 
-## 👋 Sobre mí
+👉 https://humbertoprogramador.github.io/portfolio-humberto-rey/
 
-Soy desarrollador Frontend con sólidos conocimientos en **HTML, CSS y JavaScript**.  
-Tengo experiencia creando proyectos propios, consumiendo APIs externas, manipulando el DOM, implementando persistencia con localStorage y desplegando aplicaciones web mediante **GitHub Pages**.
+👨‍💻 Sobre mí
 
-Me enfoco en escribir código claro, mantener una estructura ordenada y construir interfaces simples, funcionales y responsive.
+Soy desarrollador con enfoque en Frontend y QA Automation.
 
-También incorporo herramientas de inteligencia artificial como soporte para optimizar procesos de desarrollo y acelerar el aprendizaje continuo, manteniendo comprensión total del código implementado.
+Tengo experiencia construyendo aplicaciones web y aplicando testing automatizado para asegurar calidad en los desarrollos.
 
----
+🔹 Frontend
+HTML5, CSS3, JavaScript (ES6+)
+Manipulación del DOM
+Consumo de APIs REST
+Diseño responsive
+Persistencia con localStorage
+🔹 QA Automation
+Automatización de pruebas E2E
+Testing de APIs
+Uso de herramientas como Playwright
+Validación de flujos críticos (login, ecommerce, etc.)
+Estructuración de tests escalables
 
-## 🧠 Tecnologías utilizadas
+Me enfoco en escribir código claro, mantenible y orientado a buenas prácticas, tanto en desarrollo como en testing.
 
-- HTML5 (estructura semántica)
-- CSS3 (Flexbox, Grid, responsive design)
-- JavaScript (ES6+)
-- Manipulación del DOM
-- Consumo de APIs
-- localStorage
-- Git & GitHub
-- GitHub Pages (deploy)
+🛠️ Tecnologías utilizadas
+HTML5
+CSS3
+JavaScript
+Git & GitHub
+Playwright
+📂 Proyectos destacados
 
----
+Este portfolio incluye proyectos donde aplico:
 
-## 📁 Proyectos destacados
+Desarrollo de interfaces modernas
+Integración con APIs
+Automatización de pruebas (UI y API)
+Validación de flujos funcionales
+Buenas prácticas de desarrollo y testing
+🚀 Objetivo profesional
 
-### 🌤️ Weather App
-Aplicación web que permite consultar el clima actual de cualquier ciudad utilizando una API externa.
+Actualmente me estoy especializando en QA Automation, combinando conocimientos de desarrollo frontend con testing automatizado para trabajar en equipos que utilicen metodologías ágiles, CI/CD y buenas prácticas de calidad de software.
 
-- Búsqueda por ciudad
-- Manejo de errores
-- Fetch API y async/await
-- Diseño responsive
-
-🔗 Demo: https://humbertoprogramador.github.io/weather-app-js/  
-💻 Código: https://github.com/Humbertoprogramador/weather-app-js
-
----
-
-### 📝 To Do App
-Aplicación de gestión de tareas desarrollada con JavaScript puro.
-
-- Agregar, completar y eliminar tareas
-- Persistencia con localStorage
-- Manipulación dinámica del DOM
-- Diseño responsive
-
-🔗 Demo: https://humbertoprogramador.github.io/todo-app-js/  
-💻 Código: https://github.com/Humbertoprogramador/todo-app-js
-
----
-
-### 🖥️ HR Web Design
-Landing page enfocada en maquetación profesional y diseño responsive.
-
-- HTML semántico
-- CSS moderno
-- Diseño adaptable a distintos dispositivos
-
-🔗 Demo: https://humbertoprogramador.github.io/hr-web-design/  
-💻 Código: https://github.com/Humbertoprogramador/hr-web-design
-
----
-
-### 💈 Barber Wolf
-Sitio web para barbería orientado a presentar servicios y facilitar el contacto con clientes.
-
-- Landing page completa
-- Diseño moderno
-- Maquetación responsive
-- Enfoque en experiencia de usuario
-
-🔗 Demo: https://humbertoprogramador.github.io/barber-wolf/  
-💻 Código: https://github.com/Humbertoprogramador/barber-wolf
-
----
-
-## 🚀 Cómo ejecutar el proyecto localmente
-
+📫 Contacto
+GitHub: https://github.com/Humbertuprogramador
+Portfolio: https://humbe
 ```bash
 git clone https://github.com/Humbertoprogramador/portfolio-humberto-rey.git
