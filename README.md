@@ -49,6 +49,6 @@ Actualmente me estoy especializando en QA Automation, combinando conocimientos d
 
 📫 Contacto
 GitHub: https://github.com/Humbertuprogramador
-Portfolio: https://humbe
+Linkedin: www.linkedin.com/in/humberto-rey-8803a4280
 ```bash
 git clone https://github.com/Humbertoprogramador/portfolio-humberto-rey.git
